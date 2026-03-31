@@ -52,8 +52,8 @@ function App() {
             <div className="inline-flex p-3 bg-blue-600 rounded-2xl mb-4 shadow-lg shadow-blue-200">
               <Layout className="text-white" size={32} />
             </div>
-            <h1 className="text-4xl font-black text-slate-900 tracking-tight">Mintrabajo SGAC</h1>
-            <p className="text-slate-500 mt-2 text-lg">Ecosistema Digital de Gestión de Actuaciones Administrativas</p>
+            <h1 className="text-4xl font-black text-slate-900 tracking-tight">SGAC</h1>
+            <p className="text-slate-500 mt-2 text-lg">Sistema de Gestión de Audiencias de Conciliación</p>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
